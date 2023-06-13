@@ -4,25 +4,23 @@
 </p>
 
 <p align ="center">
-  <a  href="https://ifeanyinneji.netlify.app" target="_blank">
+  <a  href="https://www.github.com/an1ruddh" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>
-  <a href="https://ifeanyinneji.hashnode.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
-  </a>	
-  <a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+
+  <a href="mailto:anirudhchoudhary515@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-   <a href="https://www.linkedin.com/in/ifeanyi-nneji-719989235" target="_blank">
+   <a href="https://www.linkedin.com/in/aniruddh-singh-070916171/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
  
   </a>  
-  <a href="https://twitter.com/Neji_14" target="_blank">
+  <a href="https://twitter.com/aniruddh_515" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
 
-  <a href="https://medium.com/@ifeanyinneji777" target="_blank">
+  <a href="https://medium.com/@anirudhchoudhary515" target="_blank">
       <img src="https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="example"/>
     </a>
   </p>
@@ -52,7 +50,14 @@
   <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   </a>
+<a href="" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
+  </a>
+	<a href="" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
 </p>
+  
 
 ### Database Tools
 <p
@@ -74,7 +79,7 @@
 ### Visualisation Tools
 <p  
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="jetbrains" />
   </a>
 </p>
   
@@ -244,7 +249,7 @@
 
 
 
-- 👀 I’m interested in Python programming
+- 👀 I’m interested in Python programming and web development
 - 🌱 I’m currently learning Machine Learning and Data Science using python
 - 💞️ I’m looking to collaborate on any development project 
 - 📫 How to reach me: anirudhchoudhary515@gmail.com
